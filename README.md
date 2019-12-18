@@ -1,6 +1,4 @@
 # How to use
-Let C++ take you on your next road trip!
-
 Just tell it where from and to!
 (Well... as long as it's in the continental US ^_^")
 
